@@ -279,6 +279,10 @@
 
 ![Snowy Evergreen](photography/snowy-evergreen.jpg)
 
+**_Building_ by [neyfua](https://github.com/neyfua/)**
+
+![Building](photography/building.jpg)
+
 > *All photographs below are licensed as [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)*
 
 ### Photos by Kainoa Kanter
@@ -358,10 +362,6 @@
 **_Chrome Angel (2)_ by [neyfua](https://github.com/neyfua/)**
 
 ![Chrome Angel](miscellaneous/chrome_angel(2).jpg)
-
-**_Building_ by [neyfua](https://github.com/neyfua/)**
-
-![Building](miscellaneous/building.jpg)
 
 **_Cameras_ by [neyfua](https://github.com/neyfua/)**
 
